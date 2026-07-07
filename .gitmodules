@@ -1,0 +1,6 @@
+[submodule "microserevices/post-service"]
+	path = microserevices/post-service
+	url = git@github.com:cidarosa/ems-post-service.git
+[submodule "microserevices/text-processor-service"]
+	path = microserevices/text-processor-service
+	url = git@github.com:cidarosa/ems-text-processor-service.git
